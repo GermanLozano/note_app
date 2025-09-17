@@ -35,7 +35,7 @@ Esta aplicación móvil ha sido desarrollada como un sistema de gestión de nota
 - Tener instalado un editor de código como Visual Studio Code.
 
 
-## Requisitos Previos
+## Estructrura del proyecto
 ```
 lib
 ├─ src
