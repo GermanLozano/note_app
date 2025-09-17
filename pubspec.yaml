@@ -1,0 +1,71 @@
+name: note_app
+description: A Very Good Project created by Very Good CLI.
+version: 1.0.0+1
+publish_to: none
+
+environment:
+  sdk: ^3.8.0
+
+dependencies:
+
+  # MANEJO DE ESTADO
+  bloc: ^9.0.0
+
+  # PROGRAMACION FUNCIONAL
+  dartz: ^0.10.1
+
+  # COMPARACION DE OBJETOS
+  equatable: ^2.0.7
+  flutter:
+    sdk: flutter
+
+  # INTEGRACION ENTRE FLUTTER Y BLOC 
+  flutter_bloc: ^9.1.1
+
+  # INTERNACIONALIZACION
+  flutter_localizations:
+    sdk: flutter
+  
+  # INYECCION DE DEPENDENCIAS - DI
+  get_it: ^8.2.0
+
+  # MANEJO DE RUTAS
+  go_router: ^16.2.1
+
+  # CLIENTE HTTP
+  http: ^1.5.0
+
+  # INTERNALIZACION Y LOCACIZACION
+  intl: ^0.20.2
+
+  # MANIPULACION DE RUTAS DE ARCHIVOS
+  path: ^1.9.1
+
+  # ACCESO A DIRECTORIOS ESPECIFICOS DEL SISTEMA
+  path_provider: ^2.1.5
+
+  # PARA ALMACENAMIENTO SIMPLE EN EL DISPOSITIVO
+  shared_preferences: ^2.5.3
+
+  # BASE DE DATOS SQLITE
+  sqlite3: ^2.9.0
+
+  # PARA USAR SQLITE EN FLUTTER
+  sqlite3_flutter_libs: ^0.5.39
+
+  # PARA MOSTRAR TIEMPOS RELATIVOS EN FORMATO HUMANO O AMIGABLE
+  timeago: ^3.7.1
+
+  # PARA GENERAR IDS UNICOS
+  uuid: ^4.5.1
+
+dev_dependencies:
+  bloc_test: ^10.0.0
+  flutter_test:
+    sdk: flutter
+  mocktail: ^1.0.4
+  very_good_analysis: ^9.0.0
+
+flutter:
+  generate: true
+  uses-material-design: true
