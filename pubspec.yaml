@@ -9,7 +9,7 @@ environment:
 dependencies:
 
   # MANEJO DE ESTADO
-  bloc: ^9.0.0
+  bloc: ^9.0.1
 
   # PROGRAMACION FUNCIONAL
   dartz: ^0.10.1
