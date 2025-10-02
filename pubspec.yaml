@@ -51,7 +51,7 @@ dependencies:
   sqlite3: ^2.9.0
 
   # PARA USAR SQLITE EN FLUTTER
-  sqlite3_flutter_libs: ^0.5.39
+  sqlite3_flutter_libs: ^0.5.40
 
   # PARA MOSTRAR TIEMPOS RELATIVOS EN FORMATO HUMANO O AMIGABLE
   timeago: ^3.7.1
