@@ -48,7 +48,7 @@ dependencies:
   shared_preferences: ^2.5.3
 
   # BASE DE DATOS SQLITE
-  sqlite3: ^2.9.0
+  sqlite3: ^2.9.2
 
   # PARA USAR SQLITE EN FLUTTER
   sqlite3_flutter_libs: ^0.5.39
